@@ -1,0 +1,9 @@
+Clone a repo
+git clone https://github.com/jedhunsaker/codepainter.git codepainter
+1. If new branch is not showing @command Prompt
+git remote update
+git fetch 
+git checkout --track origin/<BRANCH-NAME>
+
+Link
+https://gist.github.com/jedmao/5053440
